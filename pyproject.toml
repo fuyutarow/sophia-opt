@@ -3,6 +3,7 @@ name = "sophia-opt"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
+    { name = "Liuhong99" },
     { name = "fuyutarow", email = "fuyutarow@gmail.com" }
 ]
 dependencies = [
@@ -20,7 +21,10 @@ managed = true
 dev-dependencies = []
 
 [tool.hatch.metadata]
+name = "sophia-opt"
+version = "0.1.0"
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/sophia_opt"]
+

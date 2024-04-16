@@ -1,13 +1,23 @@
-# Updates for this version
 
-```
-pip install git+https://github.com/fuyutarow/sophia-opt
-```
+# sophia-opt
+This package is a fork of the official implementation(
+[https://github.com/Liuhong99/Sophia](https://github.com/Liuhong99/Sophia)
+) and is simply packaged to improve ease of installation.
 
-```py
+
+### Installation
+```sh
+pip install sophia-opt
+```
+or `pip install git+https://github.com/fuyutarow/sophia-opt`
+
+### Usage
+```sh
 from sophia_opt import SophiaG
 ```
 
+
+---  The following content is almost the same as the official readme ---
 
 
 # Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training
@@ -48,7 +58,7 @@ Below is an example code snippet for training a general model with NLL loss with
 ```python
 import torch
 import torch.nn.functional as F
-from sophia import SophiaG
+from sophia_opt import SophiaG
 
 # init model loss function and input data
 model = Model()
