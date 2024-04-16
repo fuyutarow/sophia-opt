@@ -1,3 +1,15 @@
+# Updates for this version
+
+```
+pip install git+https://github.com/fuyutarow/sophia-optim
+```
+
+```py
+from sophia_optim import SophiaG 
+```
+
+
+
 # Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training
 
 
@@ -16,6 +28,7 @@ This is an official implementation of the **Sophia-G** optimizer in the paper [h
 
 ## News and Updates
 - Updated results with latest PyTorch version.
+
 
 
 
