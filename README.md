@@ -1,11 +1,11 @@
 # Updates for this version
 
 ```
-pip install git+https://github.com/fuyutarow/sophia-optim
+pip install git+https://github.com/fuyutarow/sophia-opt
 ```
 
 ```py
-from sophia_optim import SophiaG 
+from sophia_opt import SophiaG
 ```
 
 
