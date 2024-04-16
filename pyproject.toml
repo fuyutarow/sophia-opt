@@ -1,6 +1,6 @@
 [project]
 name = "sophia-opt"
-version = "0.1.0"
+version = "0.2.0"
 description = "Add your description here"
 authors = [
     { name = "Liuhong99" },
@@ -21,8 +21,6 @@ managed = true
 dev-dependencies = []
 
 [tool.hatch.metadata]
-name = "sophia-opt"
-version = "0.1.0"
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
