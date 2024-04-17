@@ -1,6 +1,6 @@
 [project]
 name = "sophia-opt"
-version = "0.2.1"
+version = "0.2.2"
 description = "A community package of the official implementation of “Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training”"
 authors = [
     { name = "Liuhong99" },
