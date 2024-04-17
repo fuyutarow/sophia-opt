@@ -1,5 +1,8 @@
 
 # sophia-opt
+
+[PyPI](https://pypi.org/project/sophia-opt/)
+
 This package is a fork of the official implementation(
 [https://github.com/Liuhong99/Sophia](https://github.com/Liuhong99/Sophia)
 ) and is simply packaged to improve ease of installation.
